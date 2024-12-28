@@ -1,2 +1,2 @@
 streamlit
-openai
+git+https://github.com/volcengine/volcengine-python-sdk.git
